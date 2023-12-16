@@ -12,7 +12,7 @@ you can find Llama models @ https://huggingface.co/models?other=llama-2
 # How To Run:
 
 1. At first run llm.py, "python llm.py" to create vectorstore\db_faiss
-2. now run chainlit run "model.py -w"
+2. now second cmnd  "chainlit run model.py -w"
 
 
 ![image](https://github.com/blacknoir00/Oral-Health-Chatbot/assets/67823985/be1361d0-df42-411c-a107-858d2da276f1)
