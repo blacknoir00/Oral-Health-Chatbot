@@ -7,6 +7,7 @@ Chainlit is an open-source Python package that makes it incredibly fast to build
 Llama 2 pretrained models are trained on 2 trillion tokens, and have double the context length than Llama 1. Its fine-tuned models have been trained on over 1 million human annotations.
 Llama 2 is available for free for research and commercial use.
 
+*****Screenshot*****
+![image](https://github.com/blacknoir00/Oral-Health-Chatbot/assets/67823985/be1361d0-df42-411c-a107-858d2da276f1)
 
-![image](https://github.com/blacknoir00/Oral-Health-Chatbot/assets/67823985/22e23dfd-7b56-4e25-b20e-a3ec65e586f3).
 
